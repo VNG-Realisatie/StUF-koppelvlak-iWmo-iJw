@@ -2,19 +2,19 @@
 layout: page-with-side-nav
 title: Documentatie StUF-koppelvlak iWmo-iJw
 folder_files:
-  - title: 
+  - title: Foutcodes asynchroon berichtenverkeer ISD-keten 2.1 patch 04 revisie 3
     path: documenten/Foutcodes_asynchroon_berichtenverkeer_ISD-keten_2.1_patch_04_revisie_3.pdf
     group: 21
     versie: 2.1.04 versie 3
     status: 
     omschrijving: 
-  - title: 
+  - title: Schema, wsdl en voorbeeldberichten StUF-GGk 2.1 patch 04 versie 3
     path: documenten/Ggk0210_patch_04-versie3.zip
     group: 21
     versie: 2.1.04 versie 3
     status: 
     omschrijving: 
-  - title: 
+  - title: Specificaties GGk0210-v2.1.04 - versie 4.pdf
     path: documenten/Specificaties_GGk0210-v2.1.04_-_versie_4.pdf
     group: 21
     versie: 2.1.04 versie 4
