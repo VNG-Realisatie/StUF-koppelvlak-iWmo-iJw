@@ -24,7 +24,7 @@ folder_files:
 
 # Documentatie
 
-## StUF-GGk berichtenvelop
+## StUF-GGk berichtenvelop 2.1
 <table>
 	<thead>
 		<tr>
