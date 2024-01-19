@@ -13,3 +13,7 @@ Bij de uitvoering van de taken die voortvloeien uit de Wmo 2015 en de Jeugdwet z
 De standaard die gekozen is voor de enveloppering binnen de ISD-keten is gebaseerd op de gemeentelijke StUF-standaard. Bij de routering op basis van deze StUF-envelop wordt gebruik gemaakt van de StUF vrije berichten ggk0310-Di01 als initieel bericht, en ggk0310-Du01 als bijbehorende retourbericht. In de StUF-standaard zijn afspraken gemaakt over de manier waarop bij vrije berichten omgegaan dient te worden met bevestigings- en foutberichten.
 
 In het tabblad 'Documentatie' kunt u de specificatie voor de StUF-envelop ten behoeve van het uitwisselen van berichten binnen de ISD-Keten vinden.
+
+## Status en doorontwikkeling
+Verschillende ontwikkelingen maken het vernieuwen van standaarden noodzakelijk om invulling te (blijven) geven aan de behoefte en wensen van gemeenten. De doorontwikkeling van de StUF standaard, de StUF sectormodellen en de StUF koppelvlakken waaronder het hier beschreven StUF-koppelvlak iWmo-iJw is daarom stopgezet. Alleen wetswijzigingen, wijzigingen in de Logische Ontwerpen van Basisregistraties en gevonden fouten kunnen aanleiding zijn voor het publiceren van een nieuwe versie van deze standaarden. Zo wordt er voor gezorgd dat gemeenten hun werk kunnen blijven doen. Een toelichting op het vernieuwen van de standaarden is te vinden bij [API-standaarden](https://vng-realisatie.github.io/Standaarden/API-standaarden).
+
